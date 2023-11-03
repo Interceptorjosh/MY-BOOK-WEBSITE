@@ -1,0 +1,204 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing; border-box
+}
+
+html body{
+    background: skyblue;
+    color: white;
+    
+
+}
+
+.navlist{
+    display: flex;
+    justify-content: space-between;
+    background-color: grey;
+    align-items: center;
+    padding: 0 30px;
+}
+.navlist ul{
+    list-style-type: none;
+}
+.navlist ul li{
+    display: inline-block;
+    padding: 10px;
+
+}
+
+.navlist h1{
+    padding: 20px;
+    color: blue;
+}
+span{
+    color: #000;
+}
+.navlist ul li a{
+    text-decoration:none;
+    color: white;
+    transition:1.0s;
+}
+.navlist ul li a{
+    color: #000;
+}
+
+button{
+    background-color: red;
+    color: white;
+    padding: 50px 100px;
+    border: none;
+    border-radius: 50px;
+    font-size: 20px;
+    transition: 1.0s;
+}
+
+button: hover{
+    background-color: orange;
+}
+
+.home.html{
+    background: black;
+}
+
+html .home{
+    background: white;
+    align-items: center;
+}
+
+.main{
+    float: left;
+    width: 69%;
+    text-align: justify-content;
+}
+
+.body1{
+    float: right;
+    width: 21%;
+   
+}
+.refhead{
+    background: black;
+    padding: 10px;
+}
+
+.refbody{
+    padding: 10px;
+    color: black;
+  
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: medium;
+
+}
+
+.things{
+    text-align: center;
+    background: black;
+    padding: 10px;
+}
+.aboutigede{
+    text-align: center;
+    padding: 10px;
+    margin: 10px 10px;
+    color: black;
+}
+.aboutbody{
+    padding: 10px;
+    color: black;
+    background: white;
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100;
+    font-size: medium;
+
+    
+}
+.originhead{
+    text-align: center;
+    padding: 10px;
+    margin: 10px 10px;
+    color: white;
+    background: black;
+}
+.originbody{
+    padding: 10px;
+    color: black;
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100;
+    font-size: medium;
+
+
+}
+
+.culturehead{
+    text-align: center;
+    padding: 10px;
+    margin: 10px 10px;
+    color: white;
+    background: black;
+}
+
+.culturebody{
+    padding: 10px;
+    color: black;
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100;
+    font-size: medium;
+
+
+}
+
+.bridehead{
+    text-align: center;
+    padding: 10px;
+    margin: 10px 10px;
+    color: white;
+    background: black;
+}
+
+.bridebody{
+    padding: 10px;
+    color: black;
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100;
+    font-size: medium;
+
+
+}
+.traditionhead{
+    text-align: center;
+    padding: 10px;
+    margin: 10px 10px;
+    color: white;
+    background: black;
+}
+
+.traditionbody{
+    padding: 10px;
+    color: black;
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100;
+    font-size: medium;
+
+}
+
+.continue{
+    text-align: center;
+    padding: 10px;
+}
+
+
+    footer{
+        background-color: #333;
+        color: white;
+        text-align: center;
+        width: 100%;
+        margin: 10px;
+        padding: 10px 30px;
+}
